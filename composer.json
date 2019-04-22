@@ -1,0 +1,17 @@
+{
+    "name": "nejtr0n/funpay",
+    "description": "Test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nejtr0n",
+            "email": "a6y@xakep.ru"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "files": ["functions.php"]
+    }
+}
